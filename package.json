@@ -16,7 +16,7 @@
     "core-js": "^3.22.5",
     "element-plus": "^2.2.0",
     "keccak256": "^1.0.6",
-    "monero-javascript": "^0.7.0",
+    "monero-javascript": "^0.7.1",
     "pinia": "^2.0.14",
     "qrcode": "^1.5.0",
     "vue": "^3.2.31",
